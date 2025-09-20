@@ -1,0 +1,14 @@
+LS(1)                            User Commands                           LS(1)
+NAME
+       ls - list directory contents
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+DESCRIPTION
+       List  information about the FILEs 
+
+       -a list all files
+       -l list all (long) details of the files
+       -i list files with inode
+       -s list files with size 
+AUTHOR
+      written by Nehasree Bolla

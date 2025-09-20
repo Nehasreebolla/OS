@@ -1,0 +1,14 @@
+CP(1)                            User Commands                           CP(1)
+NAME
+       cp - copies files
+SYNOPSIS
+       cp [OPTION]... SRC_FILE DEST_FILE
+DESCRIPTION
+       copies source file to the destination file 
+
+       -v copies file with verbose
+       -l creates a hard link to a file
+       -i ask confirmation before over writing DEST_FILE
+       -f over writes the DEST_FILE forcely 
+AUTHOR
+      written by Nehasree Bolla

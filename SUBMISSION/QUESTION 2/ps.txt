@@ -1,0 +1,14 @@
+PS(1)                            User Commands                           PS(1)
+NAME
+       ps - report a snapshot of the current processes
+SYNOPSIS
+      ps [options]
+DESCRIPTION
+      ps displays details of active processes
+       -a Select all processes except processes
+          not associated with terminal 
+       -x context of processes
+       -e list all processes 
+       -l long format 
+AUTHOR
+      written by Nehasree Bolla

@@ -1,0 +1,14 @@
+MV(1)                            User Commands                           MV(1)
+NAME
+       mv - moves file from soruce to destination
+SYNOPSIS
+       mv [OPTION]... SRC_FILE DEST_FILE
+DESCRIPTION
+       moves source file to the destination file 
+
+       -v moves file with verbose
+       -l creates a hard link to a file while moving
+       -i ask confirmation before over writing DEST_FILE
+       -f over writes the DEST_FILE forcely 
+AUTHOR
+      written by Nehasree Bolla

@@ -1,0 +1,14 @@
+GREP(1)                            User Commands                           GREP(1)
+NAME
+       grep - searches for string in the file
+SYNOPSIS
+       grep [OPTION]... SEARCH_STRING FILE_NAME
+DESCRIPTION
+       Searches and returns lines with SEARCH_STRING   
+
+       -i matched line_no:line content
+       -c no. of times search string occurred
+       -n list line number in which search string present
+       -v list lines not having search string 
+AUTHOR
+      written by Nehasree Bolla
