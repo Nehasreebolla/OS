@@ -1,0 +1,2 @@
+compile Assgn1_Src-CS22BTECH11012_C.cpp it has code for chunk technique twice as it has the code to update matrix inp.txt.After first compilation it updates inp.txt.After second compilation it gives output.
+compile Assgn1_Src-CS22BTECH11012_M.cpp it has code for mixed technique.

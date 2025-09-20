@@ -1,0 +1,2 @@
+Assgn2_Chunk_Src_EX1.cpp has code for experiment1 and Assgn2_Chunk_Src_EX2.cpp for experiment2 of chunk technique .Compile twice as it has the code to update matrix inp. txt.After first compilation it updates inp.txt.After second compilation it gives output.
+compile Assgn2_Mixed_Src_EX1.cpp has code for experiment1 and Assgn2_Mixed_Src_EX2.cpp for experiment2 of mixed technique.

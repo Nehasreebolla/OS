@@ -1,0 +1,1 @@
+Code didvided into 4 files.TAS,CAS,bCAS for bounded CAS,ATOM For atomic.

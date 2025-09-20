@@ -1,0 +1,1 @@
+ frw-cs22btech11012.cpp has code for fair solution and rw-cs22btech11012.cpp has code for writer priority solution .Compile as g++ -o frw frw-cs22btech11012.cpp and   g++ -o rw rw-cs22btech11012.cpp reaspectively.
